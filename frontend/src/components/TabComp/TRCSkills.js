@@ -1,5 +1,4 @@
 import React from 'react'
-import P0 from '../SkillBrick/P0'
 import P2 from '../SkillBrick/p2'
 import P4 from '../SkillBrick/p4'
 import P6 from '../SkillBrick/p6'
@@ -25,7 +24,8 @@ export default function TRCSkills() {
                         <P10 color="#d8ae59"/>
                         <P10 color="#d8ae59"/>
                         <P8 color="#d8ae59"/>
-                        <P0 color="#d8ae59"/>
+                        <div className='mr-[2px] rounded-[10px] w-1/6 h-[10px] bg-[#5e5e5e]'>
+                        </div>
                       </div>
                     </div>
 
@@ -56,8 +56,10 @@ export default function TRCSkills() {
                         <P10 color="#d8ae59"/>
                         <P10 color="#d8ae59"/>
                         <P6 color="#d8ae59"/>
-                        <P0 color="#d8ae59"/>
-                        <P0 color="#d8ae59"/>
+                        <div className='mr-[2px] rounded-[10px] w-1/6 h-[10px] bg-[#5e5e5e]'>
+    </div>
+    <div className='mr-[2px] rounded-[10px] w-1/6 h-[10px] bg-[#5e5e5e]'>
+    </div>
                       </div>
                     </div>
 
@@ -73,7 +75,8 @@ export default function TRCSkills() {
                         <P10 color="#ac71b9"/>
                         <P10 color="#ac71b9"/>
                         <P2 color="#ac71b9"/>
-                        <P0 color="#ac71b9"/>
+                        <div className='mr-[2px] rounded-[10px] w-1/6 h-[10px] bg-[#5e5e5e]'>
+    </div>
                       </div>
                     </div>
 
@@ -89,7 +92,8 @@ export default function TRCSkills() {
                         <P10 color="#ac71b9"/>
                         <P10 color="#ac71b9"/>
                         <P2 color="#ac71b9"/>
-                        <P0 color="#ac71b9"/>
+                        <div className='mr-[2px] rounded-[10px] w-1/6 h-[10px] bg-[#5e5e5e]'>
+    </div>
                       </div>
                     </div>
 
@@ -104,8 +108,10 @@ export default function TRCSkills() {
                         <P10 color="#d8ae59"/>
                         <P10 color="#d8ae59"/>
                         <P6 color="#d8ae59"/>
-                        <P0 color="#d8ae59"/>
-                        <P0 color="#d8ae59"/>
+                        <div className='mr-[2px] rounded-[10px] w-1/6 h-[10px] bg-[#5e5e5e]'>
+    </div>
+    <div className='mr-[2px] rounded-[10px] w-1/6 h-[10px] bg-[#5e5e5e]'>
+    </div>
                       </div>
                     </div>
 
