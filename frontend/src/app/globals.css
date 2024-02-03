@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.card{
+  transform-style: preserve-3d;
+  transition: all 0.8s ease;
+}
+
+@layer utilities {
+  .scrollbar::-webkit-scrollbar {
+    width: auto;
+    height: 7px;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    border-radius: 25px;
+    background: #383838;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    background: #d8ae59;
+    border-radius: 25px;
+  }
+
+  .scrollbar2::-webkit-scrollbar {
+    width: 7px;
+    height: 5px;
+  }
+
+  .scrollbar2::-webkit-scrollbar-track {
+    border-radius: 25px;
+    background: #383838;
+
+  }
+
+  .scrollbar2::-webkit-scrollbar-thumb {
+    background: #888888;
+    border-radius: 25px;
+  }
+
+
+}
+/* @keyframes scale {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.scale-up-down {
+  animation-name: ;
+  animation-duration: 1s;
+  animation-delay: 1s;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.8, 1);
+  animation-iteration-count: 2;
+} */
+
