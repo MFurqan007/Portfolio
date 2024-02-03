@@ -28,11 +28,11 @@ export default function TRCEducation() {
                 <div className='flex-1 w-[2px] h-auto bg-[#383838]'/>
             </div>
             <div className='w-auto h-auto pt-6 flex flex-col justify-start'>
-                <p className='font-sans text-[24px] font-[700] text-[white]'>Education</p>
-                <p className='mt-8 font-sans text-[16px] font-[600] text-[white]'>FAST NUCES Islamabad</p>
-                <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>2020-Present</p>
+                <p className='font-sans text-[24px] font-[700] text-[white]'>{"Education"}</p>
+                <p className='mt-8 font-sans text-[16px] font-[600] text-[white]'>{"FAST NUCES Islamabad"}</p>
+                <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>{"2020-Present"}</p>
                 <p className='font-sans text-[16px] text-[#b6b6b6]'>
-                Currently pursuing a Bachelor's in Computer Science at FAST, I am dedicated to acquiring comprehensive knowledge and practical skills in the dynamic field of computer science, eager to contribute to innovative solutions and advancements in technology.
+                {"Currently pursuing a Bachelor's in Computer Science at FAST, I am dedicated to acquiring comprehensive knowledge and practical skills in the dynamic field of computer science, eager to contribute to innovative solutions and advancements in technology."}
                 </p>
             </div>
         </div>
@@ -52,10 +52,10 @@ export default function TRCEducation() {
                 <div className='flex-1 w-[2px] h-auto bg-[#383838]'/>
             </div>
             <div className='w-auto h-auto flex flex-col justify-start'>
-                <p className='mt-3.5 font-sans text-[16px] font-[600] text-[white]'>HeadStart School Islamabad</p>
-                <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>2018-2020</p>
+                <p className='mt-3.5 font-sans text-[16px] font-[600] text-[white]'>{"HeadStart School Islamabad"}</p>
+                <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>{"2018-2020"}</p>
                 <p className='font-sans text-[16px] text-[#b6b6b6]'>
-                Securing grades 1A and 2B in my A levels demonstrates continued academic prowess and adaptability. These results further contribute to my educational journey, showcasing a well-rounded commitment to excellence at Headstart School.
+                {"Securing grades 1A and 2B in my A levels demonstrates continued academic prowess and adaptability. These results further contribute to my educational journey, showcasing a well-rounded commitment to excellence at Headstart School."}
                 </p>
             </div>
         </div>
@@ -74,10 +74,10 @@ export default function TRCEducation() {
                 </div>
             </div>
             <div className='w-auto h-auto flex flex-col justify-start'>
-                <p className='mt-3.5 font-sans text-[16px] font-[600] text-[white]'>HeadStart School Islamabad</p>
-                <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>2016-2018</p>
+                <p className='mt-3.5 font-sans text-[16px] font-[600] text-[white]'>{"HeadStart School Islamabad"}</p>
+                <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>{"2016-2018"}</p>
                 <p className='font-sans text-[16px] text-[#b6b6b6]'>
-                Attaining 2A* and 6A grades during my O levels at Headstart School exemplifies the high academic standards of a typical private school education. This outstanding achievement has earned me a prestigious 100% scholarship for my A levels, reflecting my dedication to academic excellence.
+                {"Attaining 2A* and 6A grades during my O levels at Headstart School exemplifies the high academic standards of a typical private school education. This outstanding achievement has earned me a prestigious 100% scholarship for my A levels, reflecting my dedication to academic excellence."}
                 </p>
             </div>
         </div>

@@ -28,15 +28,15 @@ export default function TRCExperience() {
                 <div className='flex-1 w-[2px] h-auto bg-[#383838]'/>
             </div>
             <div className='w-auto h-auto pt-6 flex flex-col justify-start'>
-                <p className='font-sans text-[24px] font-[700] text-[white]'>Experience</p>
-                <p className='mt-8 font-sans text-[16px] font-[600] text-[white]'>React Developer Intern</p>
+                <p className='font-sans text-[24px] font-[700] text-[white]'>{"Experience"}</p>
+                <p className='mt-8 font-sans text-[16px] font-[600] text-[white]'>{"React Developer Intern"}</p>
                 <div className='w-3/4 h-auto flex justify-between'>
-                    <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>Plural Dynamics</p>
-                    <p className='font-sans italic text-[14px] font-[500] text-[#d8ae59]'>Apr'23 - July'23</p>
+                    <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>{"Plural Dynamics"}</p>
+                    <p className='font-sans italic text-[14px] font-[500] text-[#d8ae59]'>{"Apr'23 - July'23"}</p>
                 </div>
 
                 <p className='font-sans text-[16px] text-[#b6b6b6]'>
-                Proficient in modern frontend tools (Vite, Webpack, npm) for collaborative development. Key role in creating an intuitive repair services platform with React.js, Tailwind CSS, Ant Design, and Reactstrap, implementing React Router v6, Axios, and effective state management for optimal performance and user experience.
+                {"Proficient in modern frontend tools (Vite, Webpack, npm) for collaborative development. Key role in creating an intuitive repair services platform with React.js, Tailwind CSS, Ant Design, and Reactstrap, implementing React Router v6, Axios, and effective state management for optimal performance and user experience."}
                 </p>
             </div>
         </div>
@@ -55,22 +55,20 @@ export default function TRCExperience() {
                 </div>
             </div>
             <div className='w-auto h-auto flex flex-col justify-start'>
-                <p className='mt-3.5 font-sans text-[16px] font-[600] text-[white]'>Product Based Teams</p>
+                <p className='mt-3.5 font-sans text-[16px] font-[600] text-[white]'>{"Product Based Teams"}</p>
                 <div className='w-3/4 h-auto flex justify-between'>
-                    <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>GrabTasks</p>
-                    <p className='font-sans italic text-[14px] font-[500] text-[#d8ae59]'>Jun'23 - Oct'23</p>
+                    <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>{"GrabTasks"}</p>
+                    <p className='font-sans italic text-[14px] font-[500] text-[#d8ae59]'>{"Jun'23 - Oct'23"}</p>
                 </div>
                 <p className='font-sans text-[16px] text-[#b6b6b6]'>
-                Web Pages of a product aimed at developing a platform that promotes skill based hiring by providing various areas
-for candidates to build their portfolio and companies to hire them based on their niche.
+                {"Web Pages of a product aimed at developing a platform that promotes skill based hiring by providing various areas for candidates to build their portfolio and companies to hire them based on their niche."}
                 </p>
                 <div className='w-3/4 mt-[10px] h-auto flex justify-between'>
                     <p className='font-sans text-[16px] font-[500] text-[#d8ae59]'>Auxi</p>
-                    <p className='font-sans italic text-[14px] font-[500] text-[#d8ae59]'>Sept'21 - Jun'22</p>
+                    <p className='font-sans italic text-[14px] font-[500] text-[#d8ae59]'>{"Sept'21 - Jun'22"}</p>
                 </div>
                 <p className='font-sans text-[16px] text-[#b6b6b6]'>
-                Product that aims at enhancing student life at the university by providing a platform where students can see their
-time table, connect to the photocopier, place orders in the cafeteria etc.
+                {"Product that aims at enhancing student life at the university by providing a platform where students can see their time table, connect to the photocopier, place orders in the cafeteria etc."}
                 </p>
             </div>
         </div>
