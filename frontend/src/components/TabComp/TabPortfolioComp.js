@@ -178,7 +178,7 @@ export default function TabPortfolioComp() {
 
   return (
     <div className='w-full h-auto p-4'>
-      <div className='w-full h-auto grid grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-11'>
+      <div className='w-full h-auto grid grid-rows-auto grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-4'>
         <TPCCard 
           color="#d8ae59"
           MData={GrabTasksData}

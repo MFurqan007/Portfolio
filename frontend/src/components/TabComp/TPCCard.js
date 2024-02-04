@@ -15,7 +15,7 @@ import BasicModal from './ImageModal'
 export default function TPCCard({color, MData}) {
 
   return (
-    <div className='w-[3/4] h-[300px] rounded-t-[10px]'>
+    <div className=' w-[3/4] h-auto rounded-t-[10px]'>
         <div className='w-full h-[220px] bg-[#383838] rounded-[10px]'>
           <BasicModal data={MData? MData:''}/>
         </div>
