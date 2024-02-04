@@ -65,7 +65,7 @@ export default function MobileCard() {
                             
                         </div>
                         <div 
-                            className='w-5/6 h-auto mt-[10px] flex justify-end items-center'
+                            className='w-[240px] h-auto mt-[10px] flex justify-end items-center'
                             onClick={handleFlip}    
                         >
                             <p className='text-[white] font-sans text-[16px] font-[300]'>Tap</p>

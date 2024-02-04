@@ -47,7 +47,7 @@ import T5 from '../../../public/Terminal/T4.png'
 
 import DDR from '../../../public/DDR.svg'
 import DDR1 from '../../../public/ddr/ddr1.png'
-// import DDR2 from '../../../public/ddr/ddr2.png'
+import DDR2 from '../../../public/ddr/ddR2.png'
 
 import CK from '../../../public/CK.svg'
 import CK1 from '../../../public/CafeKarak/CK1.png'
@@ -156,7 +156,7 @@ export default function TabPortfolioComp() {
     thumbnail: DDR,
     images: [
       { link: DDR1},
-      // { link: DDR2},
+      { link: DDR2},
       // Add more images as needed
     ],
   };
@@ -178,7 +178,7 @@ export default function TabPortfolioComp() {
 
   return (
     <div className='w-full h-auto p-4'>
-      <div className='w-full h-auto grid grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-6'>
+      <div className='w-full h-auto grid grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-11'>
         <TPCCard 
           color="#d8ae59"
           MData={GrabTasksData}
